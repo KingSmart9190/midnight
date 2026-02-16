@@ -1,0 +1,10 @@
+{
+  "wake_word": "assistant",
+  "language": "en-US",
+  "speech_rate": 180,
+  "listen_timeout": 3,
+  "phrase_time_limit": 5,
+  "gesture_camera_index": 0,
+  "gesture_confidence": 0.6,
+  "plugin_dir": "assistant/plugins"
+}
